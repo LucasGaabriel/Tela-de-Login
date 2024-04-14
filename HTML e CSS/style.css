@@ -35,7 +35,7 @@ body {
 .card-login > h1 {
     color: #65acb7;
     margin: 0;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
 }
 
 .text-field {
@@ -63,7 +63,7 @@ body {
     color: #8483a3;
 }
 
-.text-field > label {
+.text-field > p {
     color: #a0bccc;
     margin-bottom: 10px;
 }
@@ -74,7 +74,7 @@ body {
     margin: 20px;
     border: none;
     border-radius: 10px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     color: #14134b;
     background: #65acb7;
     font-weight: 1000;
