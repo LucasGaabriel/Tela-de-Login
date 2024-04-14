@@ -63,7 +63,7 @@ body {
     color: #8483a3;
 }
 
-.text-field > p {
+.text-field > label {
     color: #a0bccc;
     margin-bottom: 10px;
 }
